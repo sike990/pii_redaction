@@ -26,7 +26,8 @@ It leverages a hybrid approach:
 
 ## Demo
 
-*(Add Screenshots of the Streamlit App here)*
+![Main App Interface](assets/main_app_screenshot.png)
+![Redaction Example](assets/redaction_example.png)
 
 ## Installation
 
