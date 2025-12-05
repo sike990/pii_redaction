@@ -1,0 +1,13 @@
+Subject: Meeting with Mr. John Doe
+
+Hi Team,
+
+I would like to schedule a meeting with John Doe from Acme Corp. 
+He can be reached at john.doe@example.com or his personal email jdoe99@gmail.com.
+His phone number is 555-0199-2834.
+
+We will discuss the project in New York next week.
+
+Best,
+Jane Smith
+Manager
