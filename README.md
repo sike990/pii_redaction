@@ -25,10 +25,10 @@ It leverages a hybrid approach:
 -   **Web Interface**: User-friendly Streamlit dashboard for easy interaction and testing.
 
 ## Demo
-###Main App Interface
+### Main App Interface
 ![Main App Interface](assets/UI.png)
 <br>
-###Redaction Example
+### Redaction Example
 ![Redaction Example](assets/Analysis.png)
 
 ## Installation
