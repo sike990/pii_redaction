@@ -26,8 +26,8 @@ It leverages a hybrid approach:
 
 ## Demo
 
-![Main App Interface](assets/main_app_screenshot.png)
-![Redaction Example](assets/redaction_example.png)
+![Main App Interface](assets/ui.png)
+![Redaction Example](assets/Analysis.png)
 
 ## Installation
 
